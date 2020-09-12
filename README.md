@@ -29,6 +29,7 @@ Following course on Udemy provides a good platform for you to practice. After in
 It's time now to go full time into hands on exercises. 
 Spend this week doing following exercises. 
 - [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
+- [CKAD Practice Questions](https://dev.to/liptanbiswas/ckad-practice-questions-4mpn)
 
 Make sure you do it yourself and type out the solution before checking the answers given.
 Now you have gone through the whole CKAD curriculum, concepts and done enough hands-on.
